@@ -83,7 +83,7 @@
             }
             else
             {
-                $success="During The Error Process Will Not Complete";
+                $success="During The Error Process Will Not Completee";
             }
             return $success;
 
